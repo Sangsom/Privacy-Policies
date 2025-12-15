@@ -1,4 +1,4 @@
-# Privacy Policy
+# Dividend Tracker: Pulse - Privacy Policy
 
 _Last updated: December 12, 2025_
 
@@ -94,4 +94,4 @@ This policy may be updated from time to time. Changes will be reflected on this 
 
 If you have questions about this Privacy Policy, you may contact:
 
-**rinalds.domanovs@gmail.com**
+**dividendpulse@gmail.com**
